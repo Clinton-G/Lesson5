@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.62.3",
+    "axios": "^1.7.9",
+    "i18next": "^24.0.5",
+    "react-i18next": "^15.1.3"
+  }
+}
